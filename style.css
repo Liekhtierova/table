@@ -1,0 +1,15 @@
+table {
+    width: 50vw;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+thead {
+    font-weight: bold;
+}
+td {
+    border: 2px solid black;
+    text-align: center;
+}
+.first-word {
+    font-weight: bold;
+}
